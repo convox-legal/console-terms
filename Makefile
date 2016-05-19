@@ -13,7 +13,7 @@ $(BUILD):
 $(COMMONMARK):
 	npm i
 
-.PHONY: clean docker
+.PHONY: clean docker format
 
 clean:
 	rm -rf $(BUILD)
@@ -24,3 +24,9 @@ docker:
 	docker $(BUILD) -t $(DOCKER_TAG) .
 	docker run -v $(shell pwd)/$(BUILD):/app/$(BUILD) $(DOCKER_TAG)
 	sudo chown -R `whoami` $(BUILD)
+
+format:
+	for doc in $(DOCS); do \
+		fmt --uniform-spacing --width=72 $$doc.md > $$doc.tmp && \
+		mv $$doc.tmp $$doc.md ; \
+	done
