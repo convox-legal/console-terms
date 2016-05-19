@@ -5,7 +5,7 @@ DOCS=privacy terms
 all: $(addprefix $(BUILD)/,$(addsuffix .html,$(DOCS)))
 
 $(BUILD)/%.html: %.md $(BUILD) $(COMMONMARK)
-	$(COMMONMARK) < $< > $@
+	sed 's/UPDATED/$(shell ./last-updated "$<")/' $< | $(COMMONMARK) > $@
 
 $(BUILD):
 	mkdir -p $(BUILD)
@@ -23,3 +23,4 @@ DOCKER_TAG=convox-console-terms
 docker:
 	docker $(BUILD) -t $(DOCKER_TAG) .
 	docker run -v $(shell pwd)/$(BUILD):/app/$(BUILD) $(DOCKER_TAG)
+	sudo chown -R `whoami` $(BUILD)

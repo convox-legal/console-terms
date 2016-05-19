@@ -1,0 +1,3 @@
+#!/bin/sh
+DATE=$(git log -1 --format=%cd --date=short "$1")
+date -d"$DATE" "+%B %e, %Y"
