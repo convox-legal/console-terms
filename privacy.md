@@ -18,7 +18,7 @@ You can review changes to this policy at
 Convox Console collects user names, passwords, and e-mail addresses
 of users who create accounts using the signup form.  Convox Console
 also collects and stores administrative credentials for each software
-deployment platform, or Racks, that you manage with Convox Console.
+deployment platform, or Rack, that you manage with Convox Console.
 
 Some features of Convox Console are only available if you provide
 information about yourself.
