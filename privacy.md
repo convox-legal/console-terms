@@ -29,10 +29,10 @@ Convox Console uses HTTP cookies to remember you, keep you logged in,
 store your user interface preferences, and track your usage of Convox
 Console.  Convox Console does not honor Do Not Track request headers.
 
-Convox records requests and others interactions with Convox Console
-in server logs.  Server logs may record such as which URL your web
-browser requested, when you made the request, what web browser and
-kind of device you used to make the request, and other data, such
+Convox records requests and other interactions with Convox Console
+in server logs.  Server logs may record information such as which URL
+your web browser requested, when you made the request, what web browser
+and kind of device you used to make the request, and other data, such
 as data typed into a form on Convox Console, passed between your web
 browser and Convox Console servers.
 
@@ -71,7 +71,7 @@ Convox Console uses Stripe (<https://stripe.com>) to collect and
 process payment card information, such as credit card information,
 to bill for paid parts of Convox Console.  Stripe collects billing
 information, stores it, and uses it to charge your payment method on
-Convox' behalf.
+Convox's behalf.
 
 ### Analytics
 
@@ -82,5 +82,5 @@ may track your activity over time and across multiple websites.
 
 ### Other Privacy Policies
 
-Third-party services may collect, share, and user information about
+Third-party services may collect, share, and use information about
 you in other ways, according to their own privacy policies.
