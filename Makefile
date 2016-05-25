@@ -23,7 +23,6 @@ DOCKER_TAG=convox-console-terms
 docker:
 	docker $(BUILD) -t $(DOCKER_TAG) .
 	docker run -v $(shell pwd)/$(BUILD):/app/$(BUILD) $(DOCKER_TAG)
-	sudo chown -R `whoami` $(BUILD)
 
 format:
 	for doc in $(DOCS); do \
