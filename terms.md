@@ -47,7 +47,7 @@ Convox Console at any time without notice or liability to you.
 ## Convox Policies
 
 Convox respects your privacy and limits use and sharing of information
-about you collected by Convox Console The Convox Console privacy policy
+about you collected by Convox Console. The Convox Console privacy policy
 at <https://console.convox.com/privacy> describes these policies.
 Convox will abide by that privacy policy and honor the privacy settings
 that you choose via Convox Console.
@@ -60,8 +60,8 @@ transfer it to anyone else.
 
 Your permission to use Convox Console entitles you to do the following:
 
-1.  You may configure and administer installation of Rack, Convox'
-    platform-as-a-service, on you Amazon Web Services account.
+1.  You may configure and administer installation of Rack, Convox's
+    platform-as-a-service, on your Amazon Web Services account.
 
 2.  You may create and deploy builds of software services to Racks
     managed with Convox Console.
