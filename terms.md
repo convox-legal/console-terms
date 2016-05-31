@@ -104,8 +104,7 @@ conditions:
 2.  You may not use Convox Console after Convox says you may not,
     such as by disabling your account.
 
-3.  You must use Convox Console only in accordance with "Acceptable
-Use".
+3.  You must use Convox Console in accordance with "Acceptable Use".
 
 ## Acceptable Use
 
