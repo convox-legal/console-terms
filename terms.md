@@ -78,7 +78,7 @@ when you select it.
 Your permission to use Convox Console entitles you to do the following:
 
 1.  You may configure and administer installation of Rack, Convox's
-    platform-as-a-service, on your Amazon Web Services account.
+    platform-as-a-service, on your Amazon Web Services (_AWS_) account.
 
 2.  You may create and deploy builds of software services to Racks
     managed with Convox Console.
@@ -117,7 +117,8 @@ conditions:
 2.  You will not use Convox Console to violate any law.
 
 3.  You will not use or attempt to use another person's Convox Console
-    account.
+    account, or attempt to use any Convox Console account with AWS
+    credentials for another's account without their permission.
 
 4.  You will not automate access to, use, or monitor the Website, such
     as with a web crawler, browser plug-in or add-on, or other computer
@@ -200,6 +201,17 @@ provide copies of Your IP, except per the privacy policy.
 You grant Convox a limited license to the software, data, and other
 content you deploy to Racks via Convox Console, solely for the purpose
 of deploying that content to Racks as you instruct.
+
+## Your Amazon Web Services Credentials
+
+In order to deploy and manage software on Racks with Convox
+Console, you must provide Convox Console with access credentials for
+provisioning and managing AWS services on an AWS account.  Convox will
+use your credentials only to install Racks and manage applications as
+you instruct via Convox Console.  Convox may store your credentials
+on computers that Convox uses to operate, monitor, and improve Convox
+Console, including computers provisioned by others.  Convox will not
+publish or share your Amazon Web Services credentials with anyone else.
 
 ## Feedback
 
