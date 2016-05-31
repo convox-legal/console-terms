@@ -312,7 +312,8 @@ You can change your Service Plan at any time via Convox Console.
 Convox will not refund any payment you have already made for a paid
 Service Plan you disable.
 
-Dollar amounts on Convox Console are amounts of United States Dollars.
+Unless these terms or Convox Console specifically say otherwise,
+all Dollar amounts are amounts of United States Dollars per month.
 You must pay for paid Service Plans in United States Dollars.  They do
 not include tax.  You will pay any tax.
 
