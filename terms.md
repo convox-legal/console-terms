@@ -39,15 +39,16 @@ _Agreement_).
 
 Convox may change these terms in the future.  Convox will post changes
 to <https://console.convox.com/terms> with a new "last updated" date.
-If you have an Account, Convox will notify you of changes by e-mail to
-the address provided for your account, by a message on Convox Console,
-or both.  If you do not have an account, Convox may notify you of
-changes by a general announcement via Convox Console, but it is up
-to you to check for changes to these terms.  After receiving notice
-of changes to these terms, you must accept those changes to continue
-using Convox Console.  You accept changes to these terms by continuing
-to use Convox Console.  Convox may change, suspend, or discontinue
-Convox Console at any time without notice or liability to you.
+If you have an Account, Convox will notify you of changes by e-mail
+to the address provided for your account, by a message on Convox
+Console, or both.  If you do not have an account, Convox may notify
+you of changes by a general announcement via Convox Console, but it
+is up to you to check for changes to these terms.  After receiving
+notice of changes to these terms, you must accept those changes to
+continue using Convox Console.  You accept changes to these terms
+by continuing to use Convox Console.  Convox may change, suspend,
+or discontinue Convox Console or any Service Plan at any time without
+notice or liability to you.
 
 ## Convox Policies
 
@@ -62,6 +63,17 @@ privacy settings that you choose via Convox Console.
 Subject to these terms, Convox grants you permission to use Convox
 Console.  That permission is not exclusive to you, and you cannot
 transfer it to anyone else.
+
+## Services Plans
+
+Some features of Convox Console are accessible only under under
+particular _Service Plans_.  When you create your Account, you begin
+on a free-of-charge Service Plan.  You may change your Service Plan
+at any time via Convox Console.  By selecting a paid Service Plan,
+you agree to pay the fee shown for that Service Plan on Convox Console
+when you select it.
+
+## Permitted Uses
 
 Your permission to use Convox Console entitles you to do the following:
 
@@ -79,6 +91,8 @@ Your permission to use Convox Console entitles you to do the following:
 
 5.  You may update and manage your account, including the billing
     details associated with your account.
+
+6.  You may use the features of your selected Service Plan.
 
 ## Conditions
 
@@ -274,21 +288,22 @@ Liability", and "General Terms".
 
 ## Payment Terms
 
-Certain features of Convox Console are only available under paid plans.
-When you buy a paid plan, these payment terms apply.
+Certain features of Convox Console are only available under paid
+Service Plans.  When you select a paid Service Plan, these payment
+terms apply.
 
-When enabling a paid plan, you must provide all the payment card
-details requested by Convox Console.  Those details must be for a
-valid payment card that you have the right to use.  You must keep
+When enabling a paid Service Plan, you must provide all the payment
+card details requested by Convox Console.  Those details must be for
+a valid payment card that you have the right to use.  You must keep
 your payment details up-to-date via Convox Console.
 
-You can change or cancel a paid plan at any time via Convox Console.
+You can change your Service Plan at any time via Convox Console.
 Convox will not refund any payment you have already made for a paid
-plan you disable.
+Service Plan you disable.
 
 Dollar amounts on Convox Console are amounts of United States Dollars.
-You must pay for paid plans in United States Dollars.  They do not
-include tax.  You will pay any tax.
+You must pay for paid Service Plans in United States Dollars.  They do
+not include tax.  You will pay any tax.
 
 ## General Terms
 
