@@ -308,6 +308,11 @@ card details requested by Convox Console.  Those details must be for
 a valid payment card that you have the right to use.  You must keep
 your payment details up-to-date via Convox Console.
 
+Upon selecting a paid Service Plan, Convox will immediately charge
+your payment card the monthly Dollar amount for the Service Plan.
+While that Service Plan remains selected, Convox will charge your
+payment card again at the end of each month-long period.
+
 You can change your Service Plan at any time via Convox Console.
 Convox will not refund any payment you have already made for a paid
 Service Plan you disable.
