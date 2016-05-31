@@ -18,8 +18,13 @@ Liability", and an agreement to arbitrate disputes individually in
 
 ## Other Terms
 
-Convox offers additional products and services under separate terms,
-such as open-source software licenses.
+Convox licenses software to the public under open-source form
+software licenses.  These terms are separate from, and do not change,
+the terms on which Convox open-source software is licensed.
+
+Convox also offers support services under a number of Support Plans.
+Even if you select and pay for a support plan via Convox Console, these
+terms and the terms under which Convox provides support are separate.
 
 ## Legal Agreement
 
@@ -47,10 +52,10 @@ Convox Console at any time without notice or liability to you.
 ## Convox Policies
 
 Convox respects your privacy and limits use and sharing of information
-about you collected by Convox Console. The Convox Console privacy policy
-at <https://console.convox.com/privacy> describes these policies.
-Convox will abide by that privacy policy and honor the privacy settings
-that you choose via Convox Console.
+about you collected by Convox Console. The Convox Console privacy
+policy at <https://console.convox.com/privacy> describes these
+policies.  Convox will abide by that privacy policy and honor the
+privacy settings that you choose via Convox Console.
 
 ## Use of Convox Console
 
